@@ -5,6 +5,8 @@ import { KsIconAllApplication } from '@fe-infra/keystone-icons-react';
 const NAV_OPTIONS = [
   { value: '/', label: 'Ads Dashboard' },
   { value: '/campaigns', label: 'Ads Campaign' },
+  { value: '/ads/edit', label: 'Ads Edit-1' },
+  { value: '/ads/edit-2', label: 'Ads Edit-2' },
 ];
 
 export default function DevNav() {
